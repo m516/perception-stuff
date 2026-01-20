@@ -14,7 +14,7 @@ At the risk of losing the depth of the meaning of this piece, I'd like to raise 
 * How do we create, assign, and measure useful values to things?
 * How can we emulate these processes on a machine?
 
-In response, I'd like to share the results of my obsessive analysis in a set of self-contained, interactive examples. It is by no means exhaustive, comprehensive, or definitive, but I hope the curious and like-minded can find interesting patterns in here to gain a sense awe and appreciation for the beauty of structure in this wonderful world.
+In response, I'd like to share the results of my obsessive analysis in a set of self-contained, interactive examples. It is by no means exhaustive, comprehensive, or definitive, but I hope the curious and like-minded can find interesting patterns in here to gain a sense of awe and appreciation for the beauty of structure in this wonderful world.
 
 This project is intended as a learning platform for high-school students interested in developing high-speed computer vision based tools that are unavailable on LimeLights, but I hope to expand into other kinds of computational perception later.
 
@@ -33,3 +33,4 @@ Sketches are grouped in four categories:
 * [03 Tools](src/03-Tools) - how to use popular libraries.
 * [04 Public-Sketches](src/04-Public-Sketches) - putting multiple tools together to make more interesting things.
 * [99 My-Sketches](src/99-My-Sketches) - space for your projects.
+
