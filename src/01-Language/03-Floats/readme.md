@@ -1,4 +1,4 @@
-# Project 01-03: Floats
+# Sketch 01-03: Floats
 
 Sketch [01-01](/src/01-Language/01-Integers/) introduced integers, which work nicely for counting how many things there unless fractional values are possible, like using 2 1/2 apples for a recipe or measuring the angular velocity of a car. Also, all the integer types we discussed are bound between += 2^64, so we can't express the number of atoms in the universe. At the expense of precision, we can account for a much wider range of values by storing them in a **floating point** type (`float` and `double`).
 

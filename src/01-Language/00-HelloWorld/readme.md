@@ -1,4 +1,4 @@
-# Project 01-00: Hello World
+# Sketch 01-00: Hello World
 
 Take a look at `main.cpp` and `CMakeLists.txt`. These files have been reduced as much as possible. Every sketch you find later will include those lines in those files. The goal for this sketch is to understand the purpose for the files and their contents. 
 

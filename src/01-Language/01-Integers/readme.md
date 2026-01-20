@@ -1,4 +1,4 @@
-# Project 01-01: Integers
+# Sketch 01-01: Integers
 
 Here is the little program we used in our thought experiment in the [previous sketch](/src/01-Language/00-HelloWorld).
 ```cpp

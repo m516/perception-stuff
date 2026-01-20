@@ -1,6 +1,6 @@
 ![Screenshot on Ubuntu with NVidia Jetson Nano](../../docs/screenshots/01-01.png)
 
-# Project 1: Hello World (with OpenCV) <!-- omit in toc      ->
+# Sketch 1: Hello World (with OpenCV) <!-- omit in toc      ->
 This simple project loads and displays an image in OpenCV using a [single C++ source code file.](CV-Sandbox.cpp)
 
 # Table of Contents <!-- omit in toc      ->
@@ -55,7 +55,7 @@ called *image* onto that window named "Test image".
 I will not use this function frequently. OpenCV is not meant
 to be an extensive graphics library, and I have demonstrated that
 `cv::Mat`'s can be rendered in windows with interactive user interfaces 
-in [Project 5](../05-OpenCV-and-ImGui).
+in [Sketch 5](../05-OpenCV-and-ImGui).
 
 ### Waiting for the User to Exit the Window
 ```C++
