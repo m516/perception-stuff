@@ -30,7 +30,7 @@ Common instructions include:
 
 The set of rules that map a bit sequence to an instruction is called an Instruction Set Architecture (ISA).
 
-Let's briefly take a look at a relatively new ISA called [RISC-V](https://docs.riscv.org/reference/isa/_attachments/riscv-unprivileged.pdf). While a 700+ page document can be intimidating to read, notice this standard set of instructions near the start of the document:
+Let's briefly take a look at a relatively new ISA called [RISC-V](https://docs.riscv.org/reference/isa/_attachments/riscv-unprivileged.pdf). While a 700+ page document can be intimidating to read, notice this standard set of instructions within the first 50 pages of the document:
 * arithmetic and comparisons: section 2.4
 * moving data between memory and registers: section 2.6
 * unconditional jumping: section 2.5.1
@@ -102,6 +102,13 @@ int twoPlusThree() {
     int c = a + b;
     return c;
 }
+```
+
+Let's focus on this part (the surrounding brackets will make more senses later):
+```cpp
+int a = 2;
+int b = 3;
+int c = a + b;
 ```
 
 We can use a compiler (in this case x86-64 Clang 21.1.0, via [Godbolt](https://godbolt.org/)) to convert machine code compatable with my laptop (which is designed to interpret x86-64 programs):

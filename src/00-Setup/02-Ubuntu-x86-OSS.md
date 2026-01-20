@@ -1,4 +1,4 @@
-# Setup (Ubuntu)
+# Setup (Ubuntu x86)
 
 Not many people recognize the value of open source software, so I assume you have some experience navigating a terminal. Here's my setup.
 

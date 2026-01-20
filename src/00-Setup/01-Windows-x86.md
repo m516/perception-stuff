@@ -74,7 +74,7 @@ cmake --version
 1. **Get the Code:**
 * In VS Code, press `Ctrl + Shift + P` to open the Command Palette.
 * Type `Git: Clone` and press Enter.
-* Paste the GitHub URL of the project: `[INSERT YOUR GITHUB REPO URL HERE]`
+* Paste the GitHub URL of the project: `https://github.com/m516/perception-stuff.git`
 * Select a folder to save it in (e.g., your Documents folder).
 
 
